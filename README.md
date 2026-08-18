@@ -1,8 +1,9 @@
 # Cloud Security & Compliance Dashboard
 
-A portfolio project connecting **Cyber Security + AWS/Azure + IAM + Compliance + Power BI**.
 
-> **Data note:** All findings in this repository are synthetic. No employer, customer, or production AWS/Azure data is included.
+## Demo Preview
+
+![Cloud compliance dashboard preview](assets/dashboard-preview.png)
 
 ## Business Problem
 
